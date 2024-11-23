@@ -1,5 +1,7 @@
 # Intelligent Scheduling Assistant
 
+***THE FILE `scheduling_assistant.ipynb` CONTAINS THE CODE FOR THE PROJECT.***
+
 This project demonstrates an AI-powered scheduling assistant that performs the following tasks:
 
 1. **Generate Professional Appointment Requests**: Converts informal input into a polite and professional message using a language model.
