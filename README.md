@@ -1,3 +1,5 @@
+# This was developed in the hackathon time, but was not pitched (this repo contains working project that was the first idea we had before going for another idea)
+
 # Intelligent On-Device Scheduling Assistant
 
 This project consists of two key components:
