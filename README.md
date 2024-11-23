@@ -1,9 +1,9 @@
-# Intelligent Scheduling Assistant
+# Intelligent on-device Scheduling Assistant
 
 
 <span style="color:red">***THE FILE `scheduling_assistant.ipynb` CONTAINS THE CODE FOR THE PROJECT.***</span>.
 
-This project demonstrates an AI-powered scheduling assistant that performs the following tasks:
+This project demonstrates an AI-powered scheduling assistant that performs the following tasks in the edge (on-device) envirement (does not require google to knw everything about your life):
 
 1. **Generate Professional Appointment Requests**: Converts informal input into a polite and professional message using a language model.
 2. **Text-to-Speech**: Converts the generated text into audio.
