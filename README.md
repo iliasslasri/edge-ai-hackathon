@@ -1,6 +1,7 @@
 # Intelligent Scheduling Assistant
 
-***THE FILE `scheduling_assistant.ipynb` CONTAINS THE CODE FOR THE PROJECT.***
+
+<span style="color:red">***THE FILE `scheduling_assistant.ipynb` CONTAINS THE CODE FOR THE PROJECT.***</span>.
 
 This project demonstrates an AI-powered scheduling assistant that performs the following tasks:
 
