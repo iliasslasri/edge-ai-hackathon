@@ -1,4 +1,5 @@
 # This was developed in the hackathon time, but was not pitched (this repo contains working project that was the first idea we had before going for another idea)
+### The latency on the models deployed here is quite high ( few minutes 2-4min, to do all the steps form command to getting the summary of the discution with the receiptient (Yes/No in most cases) )
 
 # Intelligent On-Device Scheduling Assistant
 
